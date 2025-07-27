@@ -2,18 +2,30 @@
 
 > Advanced voice-to-voice medical consultation with emergency triage across 6 countries in 7 languages
 
+A complete medical AI system that processes voice input, analyzes symptoms using advanced AI, and provides spoken medical guidance with emergency triage capabilities. Built for global healthcare accessibility with support for multiple languages and country-specific emergency protocols.
+
 ![Medical AI Demo](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-7%20Supported-blue)
 ![Countries](https://img.shields.io/badge/Countries-6%20Covered-orange)
 ![Response Time](https://img.shields.io/badge/Emergency%20Response-<5s-red)
 
+## 🖼️ System Overview
+
 ![part_1](https://github.com/user-attachments/assets/e37f2803-102b-4ded-b908-5c002c47787b)
+
+*Complete medical voice consultation interface with country selection, voice recording, and real-time medical analysis*
 
 ![Image](https://github.com/user-attachments/assets/c9c8829c-8f10-4c5d-bdb7-69e50f97a3f9)
 
+*Emergency alert system with country-specific protocols and multilingual support*
+
 ![Image](https://github.com/user-attachments/assets/94738c27-50f9-4585-b95e-ed5ce359996c)
 
+*System performance dashboard showing real-time metrics and component status*
+
 ![Image](https://github.com/user-attachments/assets/6d216013-eb1a-4257-88f0-f614e461a666)
+
+*Advanced medical analysis results with urgency assessment and voice response generation*
 
 ## ✨ Features
 
@@ -60,7 +72,6 @@ OPENROUTER_API_KEY = "your_openrouter_key"
 ELEVENLABS_API_KEY = "your_elevenlabs_key"
 ```
 
-
 ## 🎯 Usage
 
 1. **Select Country & Language** - Choose your location and preferred language
@@ -96,6 +107,7 @@ ELEVENLABS_API_KEY = "your_elevenlabs_key"
 ## ⚠️ Medical Disclaimer
 
 This AI assistant provides general medical information and guidance only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of qualified healthcare providers for medical concerns. In emergencies, call your local emergency services immediately.
+
 
 ## 📄 License
 
